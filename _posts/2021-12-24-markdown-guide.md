@@ -8,4 +8,4 @@ tags: [guide, markdown]
 
 ## Resources
 
-This is a [good guide[](https://www.markdownguide.org/basic-syntax/)](https://github.com/a7madgamaltantawy/Data_Science_Projects/blob/master/Formula%201%20advanced%20analysis.ipynb) to learn about the basic markdown syntax.
+This is a [good guide[](https://github.com/a7madgamaltantawy/Data_Science_Projects/blob/master/Formula%201%20advanced%20analysis.ipynb)] to learn about the basic markdown syntax.
