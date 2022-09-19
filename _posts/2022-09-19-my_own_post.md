@@ -1,10 +1,10 @@
 
 ---
 layout: post
-title: My_First_Post
-subtitle: Nothing
-categories: Testing
-tags: [Python, intro, certificate]
+title: My Motivation.
+subtitle: Highly Motivated
+categories: Python
+tags: [data analyisis, python]
 ---
 
 ## Quote
