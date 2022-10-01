@@ -1,7 +1,5 @@
 ## Purpose
 
-Template to build a versatile blog forked from [jeffreytse](https://github.com/jeffreytse/jekyll-theme-yat)
-
 ## Personalize the website
 
 1. Go to [_data/defaults.yml](_data/defaults.yml) and change the values for
