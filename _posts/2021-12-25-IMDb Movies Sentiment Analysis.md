@@ -1,7 +1,8 @@
 ---
 layout: post
 title: IMDb data & Machine learning .
-subtitle: Formula 1
+subtitle: This project is to get some cool results and playing around with formula 1 Data ,during AbuDhabi lap 2021!
+
 categories: analyisis
 tags: [data analyisis, python]
 ---
