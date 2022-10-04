@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IMDb data & Machine learning .
-subtitle: This project is to get some cool results and playing around with formula 1 Data ,during AbuDhabi lap 2021!
+subtitle: This project is to get some cool results and playing around with IMDb data , applying sentiemnt analysis to get some idea about the movies content by applying bag of words algorithm!
 
 categories: analyisis
 tags: [data analyisis, python]
