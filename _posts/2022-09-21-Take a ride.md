@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Ride Recommender System .
+title: Best Ride Recommender System.
 subtitle: This project is to build my own algoritm to recommend a ride for the customer based on the location, destination, surge price and weather data!
 
 categories: analyisis
