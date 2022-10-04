@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IMDb data & Machine learning .
-subtitle: This project is to get some cool results and playing around with IMDb data , applying sentiemnt analysis to get some idea about the movies content by applying bag of words algorithm!
+subtitle: This project is to build my own algoritm to recommend a ride for the customer based on the location, destination, surge price and weather data!
 
 categories: analyisis
 tags: [data analyisis, python]
