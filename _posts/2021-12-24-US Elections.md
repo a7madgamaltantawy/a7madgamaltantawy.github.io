@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formula 1 data Playing around.
+title: US Elections.
 subtitle: This project is to conduct analysis on US official data for 2012 presidental elections , every thing is explained in the comments of the code , git hub link is shared in the resources section!
 
 categories: analyisis
